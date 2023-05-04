@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource**
 
-- 👨‍💻 My Personal Portfolio [https://rahulshah.me/](https://shahrahul.me/)
+- 👨‍💻 My Personal Portfolio [https://shahrahul.me/](https://shahrahul.me/)
 
 - 💬 Reach me out for **probono consulting, opensource, freelance, communitybuilding.**
 
